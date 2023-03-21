@@ -1,0 +1,10 @@
+.idea
+*.iml
+target
+.gradle
+build
+out
+openapi.json
+api-docs/openapi.json
+
+.DS_Store
